@@ -1,6 +1,6 @@
 # Flutter PDF Viewer Example
 
-This repository contains a quick getting started example for Syncfusion [Flutter PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer?utm_medium=ads&utm_source=googleads&utm_campaign=flutter-widgets-tier3&gclid=Cj0KCQjw08aYBhDlARIsAA_gb0cm8i0zRg-5O2gBavBm-R0rHxRn3IzskzweSrW1Ua30WaCnze32DSAaAneIEALw_wcB). In this example, you will learn how to load a PDF document from the network URL using our PDF Viewer. And, you will also learn how to perform zooming, page navigation, and bookmark navigation programmatically.
+This repository contains a quick getting started example for Syncfusion&reg; [Flutter PDF Viewer](https://www.syncfusion.com/flutter-widgets/flutter-pdf-viewer?utm_medium=ads&utm_source=googleads&utm_campaign=flutter-widgets-tier3&gclid=Cj0KCQjw08aYBhDlARIsAA_gb0cm8i0zRg-5O2gBavBm-R0rHxRn3IzskzweSrW1Ua30WaCnze32DSAaAneIEALw_wcB). In this example, you will learn how to load a PDF document from the network URL using our PDF Viewer. And, you will also learn how to perform zooming, page navigation, and bookmark navigation programmatically.
 
 ## Key Features
 
